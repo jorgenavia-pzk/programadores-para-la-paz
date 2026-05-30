@@ -1,0 +1,3 @@
+- http://localhost:3000 : El navegador muestra el texto "Servidor activo", ya que es la ruta raíz ('/') de nuestra aplicación.
+- http://localhost:3000/saludo : El navegador muestra el texto "Hola comunidad", respondiendo a la ruta específica definida en el servidor.
+- http://localhost:3000/mensaje/juan : El navegador lee el parámetro "juan" de la URL y muestra el texto dinámico "Hola juan".

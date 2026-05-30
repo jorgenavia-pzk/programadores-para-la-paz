@@ -1,0 +1,5 @@
+¿Qué hace esta ruta?
+Esta ruta recibe una solicitud a través del método POST en la dirección '/reporte'. A diferencia de GET, esta ruta espera recibir datos en el "cuerpo" (body) de la petición en formato JSON. Toma la propiedad "mensaje" de esos datos y responde al usuario con un nuevo JSON confirmando que el reporte fue recibido, devolviendo el mismo mensaje.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Podría servir perfectamente para crear un sistema de denuncias o alertas barriales. Por ejemplo, desde una aplicación en el celular, un vecino podría escribir que hay un daño en el alumbrado público o una situación de riesgo. La aplicación enviaría este reporte mediante un POST a la API, y el servidor guardaría la información para notificar a los líderes comunitarios de forma centralizada y organizada.
