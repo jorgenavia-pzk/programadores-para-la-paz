@@ -1,0 +1,3 @@
+1. Proteger contraseñas mediante el uso de gestores de contraseñas robustos y la activación obligatoria del doble factor de autenticación (2FA).
+2. No compartir credenciales, API keys ni llaves privadas de acceso a través de canales de comunicación inseguros o chats abiertos.
+3. Mantener el software, las dependencias del proyecto y el sistema operativo del servidor completamente actualizados con los últimos parches de seguridad.

@@ -1,0 +1,5 @@
+1. No exponer datos personales ni información confidencial de los miembros de la comunidad en interfaces públicas ni registros de logs accesibles.
+2. Proteger credenciales forzando políticas de contraseñas complejas y autenticación multifactor para los perfiles que tengan roles de edición o administración.
+3. Usar conexiones seguras mediante la implementación estricta del protocolo HTTPS (certificados SSL/TLS) para cifrar todo el tráfico de datos en la red.
+4. Registrar accesos y mantener un registro de auditoría interno inmutable para monitorear actividades sospechosas o intentos de intrusión no autorizados.
+5. Limitar el acceso a información sensible a través de un control de acceso basado en roles (RBAC), asegurando que cada voluntario solo acceda a lo necesario.

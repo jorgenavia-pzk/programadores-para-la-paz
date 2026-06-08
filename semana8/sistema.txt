@@ -1,0 +1,6 @@
+Información de los comandos:
+- El comando 'uname -a' muestra información detallada sobre el núcleo (kernel) del sistema operativo Linux, incluyendo el nombre del host de la máquina, la arquitectura del procesador, la versión exacta del kernel y la fecha de compilación.
+- El comando 'whoami' muestra el nombre del usuario con el que se ha iniciado sesión actualmente en la terminal y que tiene el control de la ejecución de procesos.
+
+Importancia de conocer la información del sistema:
+Conocer estos datos al administrar un servidor es crucial porque permite realizar auditorías de seguridad, verificar si el sistema operativo cuenta con los parches críticos de vulnerabilidades instalados y diagnosticar problemas de compatibilidad antes de instalar dependencias de software o desplegar aplicaciones. Además, saber qué usuario ejecuta los comandos evita que un administrador ejecute accidentalmente scripts destructivos con privilegios elevados de superusuario (root), garantizando la estabilidad del entorno tecnológico.
