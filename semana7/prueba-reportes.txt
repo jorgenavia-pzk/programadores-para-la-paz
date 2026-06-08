@@ -1,0 +1,3 @@
+Al probar la API con Thunder Client o Postman, se observa el ciclo completo de los datos. Primero, al enviar una petición POST a http://localhost:3000/reportes con un cuerpo JSON, el servidor procesa los datos, les asigna un 'id' autoincremental único y los guarda dentro del array 'reportes' mediante el método push(), respondiendo con un mensaje de éxito.
+
+Posteriormente, al realizar una consulta GET a la misma dirección, el servidor no devuelve una lista vacía, sino un arreglo estructurado que contiene todos los reportes que se han ido acumulando en la memoria del sistema. Esto demuestra la persistencia de datos temporal (en memoria volátil), validando que la API organiza la información de forma dinámica y eficiente para su posterior consulta comunitaria.
