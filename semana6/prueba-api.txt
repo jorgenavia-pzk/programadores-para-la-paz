@@ -1,0 +1,7 @@
+Al enviar una petición POST a http://localhost:3000/registro con el JSON de María, el servidor procesa los datos y devuelve un objeto JSON con un estado HTTP 200 OK que contiene:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+Esto confirma que express.json() leyó correctamente los datos del cuerpo (req.body) y los retornó estructurados en la respuesta.
