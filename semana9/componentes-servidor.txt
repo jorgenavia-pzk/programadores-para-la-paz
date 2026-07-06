@@ -1,14 +1,14 @@
 Sistema operativo:
-Es el software principal que gestiona el hardware de la máquina. Proporciona el entorno básico y las interfaces de red necesarias para que Node.js pueda ejecutarse.
+Es el software principal que gestiona el hardware de la mï¿½quina. Proporciona el entorno bï¿½sico y las interfaces de red necesarias para que Node.js pueda ejecutarse.
 
 Node.js:
-Es un entorno de ejecución para JavaScript en el lado del servidor. Permite construir herramientas de red y servidores web rápidos, eficientes y altamente escalables.
+Es un entorno de ejecuciï¿½n para JavaScript en el lado del servidor. Permite construir herramientas de red y servidores web rï¿½pidos, eficientes y altamente escalables.
 
-Aplicación server.js:
-Es el archivo con el código fuente escrito por el desarrollador. Define las rutas (endpoints) y la lógica de negocio que responde a las peticiones de los usuarios.
+Aplicaciï¿½n server.js:
+Es el archivo con el cï¿½digo fuente escrito por el desarrollador. Define las rutas (endpoints) y la lï¿½gica de negocio que responde a las peticiones de los usuarios.
 
 Puerto:
-Es una compuerta lógica o interfaz virtual en el sistema operativo para canalizar el tráfico de red. Permite que el servidor escuche de forma exclusiva en una dirección concreta (como el puerto 3000).
+Es una compuerta lï¿½gica o interfaz virtual en el sistema operativo para canalizar el trï¿½fico de red. Permite que el servidor escuche de forma exclusiva en una direcciï¿½n concreta (como el puerto 3000).
 
 Logs:
-Son registros de texto que documentan cronológicamente los eventos, accesos y errores del sistema. Son indispensables para que el equipo técnico monitoree la estabilidad y diagnostique fallos.
+Son registros de texto que documentan cronolï¿½gicamente los eventos, accesos y errores del sistema. Son indispensables para que el equipo tï¿½cnico monitoree la estabilidad y diagnostique fallos.

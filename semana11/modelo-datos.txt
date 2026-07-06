@@ -1,0 +1,19 @@
+Entidad: Causa
+Campos principales:
+- id: Identificador �nico num�rico de la iniciativa.
+- titulo: Nombre o encabezado de la causa comunitaria.
+- descripcion: Explicaci�n detallada del prop�sito de la propuesta.
+- fecha: D�a y hora de registro de la causa.
+
+Prop�sito:
+Guardar de manera organizada las causas y proyectos vecinales que ser�n visibles p�blicamente en la plataforma para recibir apoyo social.
+
+Entidad: Apoyo
+Campos principales:
+- id: Identificador �nico de este registro de respaldo.
+- causa_id: Enlace o relaci�n directa con el id de la causa apoyada.
+- usuario_anonimo: Seud�nimo o rol del participante para proteger su identidad real.
+- fecha: Momento exacto en el que el ciudadano presion� el bot�n de apoyo.
+
+Prop�sito:
+Registrar cuantitativamente los apoyos que recibe cada causa para hacer un seguimiento transparente y seguro de la participaci�n colectiva.
