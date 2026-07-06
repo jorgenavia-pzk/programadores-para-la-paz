@@ -1,0 +1,13 @@
+¿Qué 2 tareas del backlog harías primero?
+Haría primero la Historia 1 (Registrar una incidencia) y la Historia 2 (Consultar la lista de reportes).
+
+¿Por qué son las más importantes?
+Porque representan el núcleo básico o Producto Mínimo Viable (MVP) de nuestro sistema de veeduría. Sin la capacidad de guardar reportes ni la opción de que el equipo los consulte, no existiría información base alguna dentro de la plataforma para poder automatizar alertas en Telegram o mostrar estadísticas. Son el pilar fundamental sobre el cual se sostiene toda la solución.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Significa que la funcionalidad cumple estrictamente con los acuerdos de calidad mínimos del equipo y está completamente lista para ser desplegada de forma segura sin fallas críticas para la comunidad.
+
+Criterios de terminado (Definition of Done):
+1. Funciona correctamente respondiendo a la necesidad exacta planteada por el usuario.
+2. Fue probada a nivel de código controlando posibles fallas o ingresos vacíos de información.
+3. Quedó guardada de manera limpia en el historial de Git y subida con éxito al repositorio de GitHub.

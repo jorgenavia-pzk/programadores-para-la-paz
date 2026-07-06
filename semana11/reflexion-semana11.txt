@@ -1,9 +1,9 @@
-Una plataforma tecnológica orientada a la participación ciudadana necesita un sistema integral de almacenamiento y seguridad para ser confiable.
+Una plataforma tecnolï¿½gica orientada a la participaciï¿½n ciudadana necesita un sistema integral de almacenamiento y seguridad para ser confiable.
 La base de datos es indispensable porque organiza, centraliza y da permanencia a los proyectos colectivos y propuestas de la vecindad.
-Sin ella, los datos de veeduría y las solicitudes sociales se perderían por completo tras apagar el sistema, impidiendo el seguimiento continuo.
-Por su parte, la autenticación de usuarios garantiza que las acciones dentro de la red sean legítimas y auditas de forma interna.
-Esto previene la suplantación de identidad y evita que bots o actores malintencionados alteren masivamente los votos o contadores de apoyo.
-Finalmente, la protección rigurosa de la información defiende el derecho fundamental a la privacidad de los líderes comunitarios.
-Exponer datos personales en entornos vulnerables puede generar persecución, acoso o desvío de las causas comunitarias reales.
-Por lo tanto, la base de datos, la autenticación y la seguridad actúan juntas como el pilar técnico que blinda la democracia digital.
+Sin ella, los datos de veedurï¿½a y las solicitudes sociales se perderï¿½an por completo tras apagar el sistema, impidiendo el seguimiento continuo.
+Por su parte, la autenticaciï¿½n de usuarios garantiza que las acciones dentro de la red sean legï¿½timas y auditas de forma interna.
+Esto previene la suplantaciï¿½n de identidad y evita que bots o actores malintencionados alteren masivamente los votos o contadores de apoyo.
+Finalmente, la protecciï¿½n rigurosa de la informaciï¿½n defiende el derecho fundamental a la privacidad de los lï¿½deres comunitarios.
+Exponer datos personales en entornos vulnerables puede generar persecuciï¿½n, acoso o desvï¿½o de las causas comunitarias reales.
+Por lo tanto, la base de datos, la autenticaciï¿½n y la seguridad actï¿½an juntas como el pilar tï¿½cnico que blinda la democracia digital.
 De esta manera, la comunidad puede expresarse libremente en un canal seguro, transparente y enfocado en construir una cultura de paz.

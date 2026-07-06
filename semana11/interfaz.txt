@@ -1,4 +1,4 @@
-La interfaz de la plataforma ciudadana contará con una sección principal donde se desplegará la vista de causas disponibles de manera clara y ordenada.
-Cada iniciativa de la lista incluirá un contador de apoyos numérico visible y un botón interactivo para "Apoyar Causa", permitiendo la interacción rápida.
-En la parte superior, se ubicará un formulario intuitivo para crear una causa, el cual solicitará únicamente campos esenciales: título, descripción y fecha.
-Todo el diseño visual priorizará la legibilidad, la facilidad de uso para cualquier vecino y la total ausencia de exposición de datos privados.
+La interfaz de la plataforma ciudadana contarï¿½ con una secciï¿½n principal donde se desplegarï¿½ la vista de causas disponibles de manera clara y ordenada.
+Cada iniciativa de la lista incluirï¿½ un contador de apoyos numï¿½rico visible y un botï¿½n interactivo para "Apoyar Causa", permitiendo la interacciï¿½n rï¿½pida.
+En la parte superior, se ubicarï¿½ un formulario intuitivo para crear una causa, el cual solicitarï¿½ ï¿½nicamente campos esenciales: tï¿½tulo, descripciï¿½n y fecha.
+Todo el diseï¿½o visual priorizarï¿½ la legibilidad, la facilidad de uso para cualquier vecino y la total ausencia de exposiciï¿½n de datos privados.

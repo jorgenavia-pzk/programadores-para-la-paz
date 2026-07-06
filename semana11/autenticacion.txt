@@ -1,6 +1,6 @@
-El login es el proceso técnico que permite verificar de forma segura la identidad de un usuario antes de concederle accesos específicos.
-Algunas rutas del servidor deben estar protegidas de manera estricta porque contienen opciones de edición interna o registros privados del sistema.
-Garantizar este control de acceso evita que personas externas o herramientas automatizadas saboteen o alteren los datos legítimos de la comunidad.
-Bajo ninguna circunstancia se debe exponer públicamente información confidencial como contraseñas, correos electrónicos o números de teléfono personales.
-Tampoco se deben subir al repositorio de GitHub elementos críticos como llaves de API, tokens de sesión o el archivo de configuración .env.
-La protección de accesos es un deber ético fundamental para salvaguardar la soberanía digital y mantener la confianza de todo el tejido social.
+El login es el proceso tï¿½cnico que permite verificar de forma segura la identidad de un usuario antes de concederle accesos especï¿½ficos.
+Algunas rutas del servidor deben estar protegidas de manera estricta porque contienen opciones de ediciï¿½n interna o registros privados del sistema.
+Garantizar este control de acceso evita que personas externas o herramientas automatizadas saboteen o alteren los datos legï¿½timos de la comunidad.
+Bajo ninguna circunstancia se debe exponer pï¿½blicamente informaciï¿½n confidencial como contraseï¿½as, correos electrï¿½nicos o nï¿½meros de telï¿½fono personales.
+Tampoco se deben subir al repositorio de GitHub elementos crï¿½ticos como llaves de API, tokens de sesiï¿½n o el archivo de configuraciï¿½n .env.
+La protecciï¿½n de accesos es un deber ï¿½tico fundamental para salvaguardar la soberanï¿½a digital y mantener la confianza de todo el tejido social.
