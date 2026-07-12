@@ -1,0 +1,6 @@
+Flujo del Sistema - Petición en 3 Clics:
+1. Un ciudadano ingresa a la plataforma web y crea una causa comunitaria (ej. reparación de un parque vecinal).
+2. La causa se almacena y registra de forma centralizada y transparente en la base de datos de la aplicación.
+3. Otros miembros de la comunidad ingresan al sistema, leen la propuesta y registran su apoyo digital con un clic.
+4. El servidor backend procesa la solicitud en tiempo real y actualiza la cantidad de apoyos acumulados.
+5. El sistema compila automáticamente los datos de la causa y genera un documento formal en formato PDF listo para ser presentado ante las autoridades institucionales competentes.

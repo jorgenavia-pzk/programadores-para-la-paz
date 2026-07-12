@@ -1,0 +1,15 @@
+Modelo de Datos Simple:
+
+Entidad: Causa
+- id: Identificador único numérico para cada causa comunitaria registrada.
+- titulo: Texto descriptivo breve que nombra la iniciativa o necesidad local.
+- descripcion: Explicación amplia sobre el propósito, justificación y metas de la causa.
+- fecha: Registro de la fecha y hora exactas en que se creó la causa.
+Sirve para: Almacenar de manera organizada los detalles fundamentales de cada proyecto propuesto por los ciudadanos.
+
+Entidad: Apoyo
+- id: Identificador único de cada voto o registro de respaldo individual.
+- causa_id: Clave foránea que conecta lógicamente este apoyo con su causa correspondiente.
+- nombre: Nombre de práctica (ficticio o pedagógico) de la persona que respalda la iniciativa.
+- fecha: Fecha y hora exacta del momento en que se pulsó el botón de apoyo.
+Sirve para: Llevar un control detallado y auditable de los respaldos digitales recibidos, permitiendo contabilizar los apoyos de forma segura y colectiva.

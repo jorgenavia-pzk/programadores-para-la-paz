@@ -1,0 +1,5 @@
+Diseño de Automatización con n8n / Telegram:
+
+- Evento que activa la automatización: El registro exitoso de una nueva causa comunitaria en la base de datos de la plataforma web.
+- Mensaje automático enviado: "?? ¡Atención Comunidad! Se ha publicado una nueva iniciativa titulada '[titulo_de_la_causa]'. Te invitamos a revisar la propuesta y sumar tu apoyo organizado para transformar nuestro territorio. ?????"
+- Información excluida por seguridad: Bajo el principio de minimización de datos, por seguridad NO se enviarán números de identificación (cédulas), números telefónicos, direcciones residenciales ni datos personales reales de los usuarios, evitando su exposición en canales de mensajería públicos.
